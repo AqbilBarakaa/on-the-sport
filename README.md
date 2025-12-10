@@ -1,6 +1,11 @@
 # on-the-sport
 Website Berita Olahraga
 
+# Teknologi:
+- Front-end: HTML, CSS, Tailwind CSS, JavaScript, Vite
+- Back-end: PHP, Laravel, Filament
+- Database: MySQL
+
 ## Instalasi
 
 ### 1. Clone Repository
